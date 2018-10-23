@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class jc < Formula
+class JC < Formula
   desc "A generating tool from Raw JSON to Codable (Swift4) text"
   homepage ""
   url "https://github.com/YutoMizutani/JSONtoCodable/releases/download/2.1.0/Source-code-jc.zip"

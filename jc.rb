@@ -4,8 +4,8 @@
 class Jc < Formula
   desc "A generating tool from Raw JSON to Codable (Swift4) text"
   homepage ""
-  url "https://github.com/YutoMizutani/JSONtoCodable/releases/download/2.1.0/Source-code-jc.zip"
-  sha256 "cb9789d1df9d7a06939f98950b84fb9e603614a8d011ac4b00d295c52bbdc517"
+  url "https://github.com/YutoMizutani/JSONtoCodable/releases/download/2.1.1/src-jc.zip"
+  sha256 "8ad385f15dc99a6849d047bae7f823b718d20fa1088725c78ab7ecf216129c8a"
 
   def install
     system "make", "install", "PREFIX=#{prefix}"

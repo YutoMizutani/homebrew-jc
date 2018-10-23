@@ -2,7 +2,7 @@
 #                https://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Jc < Formula
-  desc "A generating tool from Raw JSON to Codable (Swift4) text"
+  desc "JSONtoCodable is a generating tool from Raw JSON to Codable output."
   homepage ""
   url "https://github.com/YutoMizutani/JSONtoCodable/releases/download/2.1.1/src-jc.zip"
   sha256 "8ad385f15dc99a6849d047bae7f823b718d20fa1088725c78ab7ecf216129c8a"
